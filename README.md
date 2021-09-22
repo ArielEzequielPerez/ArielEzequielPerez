@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArielEzequielPerez
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python, html and css
-- 💞️ I am looking for my first job it
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning web applications development 
+- 💞️ I am looking for my first job it 
 - 📫 How to reach me arielezequielperez@gmail.com
 
 <!---
